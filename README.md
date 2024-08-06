@@ -1,1 +1,1 @@
-describe the contents of the repository and that it is related to the paper that you can cite in the README. In there, you can mention that the data has been scaled.
+Datasets and results associated with the paper 'Surrogate modeling of the leaching process in a rare earth elements recovery plant'. All the datasets were generated using LHS sampling, and the combined set of all datasets is min-max scaled.
