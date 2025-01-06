@@ -1,0 +1,6 @@
+Number of training points,Number of nodes,Number of hidden layers,Activation function,Epochs
+10,400,1,relu,500
+50,500,3,relu,400
+100,500,2,relu,500
+500,500,2,relu,100
+1000,500,1,relu,500
